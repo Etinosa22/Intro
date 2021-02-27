@@ -123,7 +123,6 @@ input {
 @media screen and (max-width: 900px){
     .container {
         width: 100%;
-        border: 2px solid white;
     }
     .hero {
         width: 90%;
@@ -140,14 +139,12 @@ input {
         width: 100%;
         font-size: 30px;
         margin-top: 40px;
-        border: 2px solid white;
     }
 
     .hero-content p {
         width: 90%;
         margin: auto;
         margin-top: 20px;
-        border: 2px solid white;
         font-size: 14px;
     }
 
